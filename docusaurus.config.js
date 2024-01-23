@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BaiHua',
-  tagline: 'Dinosaurs are cool',
+  tagline: '个人文档知识库',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -123,7 +123,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'Blog',
